@@ -1,6 +1,6 @@
 # irene
 
-Lamp status
+Lamp stack
 
 bla bla bla
 
