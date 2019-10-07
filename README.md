@@ -190,12 +190,3 @@ Añadimos dentro de <VirtualHost *:80> y </VirtualHost>.
 ```
 - sudo /etc/init.d/apache2 restart (Reiniciamos apache2)
 ```
-
-# Ejercicio de Ampliación
-
-# Instalar AWStats en Ubuntu 18.04 con Apache
-## Instalar el servidor web Apache
-```
-sudo apt install apache2
-```
-
